@@ -1,0 +1,39 @@
+body{
+    background-color: rgba(222,184,135,255)
+    ;
+}
+#total{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.maclass{
+    height: 120px;
+    background-color: rgba(255,69,0,255);
+    width: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20%;
+}
+#d1{
+    
+    text-align: center;
+    width: 15%;
+    height: 150px;
+}
+#d2{
+    text-align: center;
+    width: 25%;
+    height: 150px;
+}
+#d3{
+    text-align: center;
+    width: 30%;
+    height: 150px;
+}
+#d4{
+    text-align: center;
+    width: 25%;
+    height: 150px;
+}
